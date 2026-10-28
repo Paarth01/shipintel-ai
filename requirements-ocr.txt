@@ -2,4 +2,4 @@
 # Hashed pins (runtime + OCR): requirements-ocr.lock
 -r requirements.txt
 pytesseract>=0.3.10,<0.4
-pillow>=10
+pillow>=13.0.0
