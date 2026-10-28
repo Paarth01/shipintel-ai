@@ -1,6 +1,6 @@
 # Development, test and security tooling. Hashed pins: requirements-dev.lock.
 -r requirements.txt
-pytest>=8.4,<10             # >=9.0.3 fixes CVE-2025-71176 (the old '<9' pin blocked it)
+pytest>=9.1.1,<10             # >=9.0.3 fixes CVE-2025-71176 (the old '<9' pin blocked it)
 coverage>=7.5,<8
 ruff>=0.4,<1
 mypy>=1.10,<2
