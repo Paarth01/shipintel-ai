@@ -8,5 +8,5 @@ bandit>=1.7,<2
 pip-audit>=2.7,<3
 pip-tools>=7.4,<8           # builds the *.lock files
 reportlab>=4,<5             # synthetic PDF generation (scripts/generate_synthetic_data.py)
-pillow>=10                  # scanned-PDF fixtures + OCR image handling
+pillow>=13.0.0                  # scanned-PDF fixtures + OCR image handling
 pytesseract>=0.3.10,<0.4    # so the OCR tests run in CI (also needs the tesseract binary)
