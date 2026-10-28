@@ -1,0 +1,11 @@
+SHIPPING INSTRUCTION
+
+SHIPPER                 Zenith Marine Services Ltd
+VESSEL                  EASTERN VOYAGER V.13E
+LOADING PORT            Port Hedland
+DISCHARGE PORT          Ust-Luga
+QUANTITY                35400 MT
+DOCUMENT NO             REF-2025-153387
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

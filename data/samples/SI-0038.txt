@@ -1,0 +1,14 @@
+CARGO MANIFEST
+
+MANIFEST NO             MSK866260
+VESSEL NAME             M/V CRIMSON NAVIGATOR
+DESTINATION             Colombo
+COMMODITY               SOYBEANS
+QUANTITY                0 tonnes
+DATE LOADED             9 June 2024
+DATE DISCHARGED         8 July 2024
+VOYAGE NO               59W
+IMO NO                  9463873
+DATE OF ISSUE           07.06.2024
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

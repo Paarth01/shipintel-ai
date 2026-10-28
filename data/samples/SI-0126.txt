@@ -1,0 +1,15 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          NORTHERN FORTUNE
+SHRPMENT REF            CP385066
+ORIGIN PORT             Newcastle, Australia
+DESTINATION PORT        Mormugao, India
+GOODS                   CRUDE OIL
+TOTAL QUANTITY          829 500 barrels
+LOADED ON               05/11/2025
+DELIVERED ON            13th March 2025
+CONSIGNEE               Meridian Agri Exports S.A.
+BUYER                   Baltic Chartering Pvt Ltd
+ADVICE DATE             1 February 2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

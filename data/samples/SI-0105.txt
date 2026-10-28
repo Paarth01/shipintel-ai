@@ -1,0 +1,15 @@
+CHARTER PARTY SUMMARY
+
+1. CP Ref: SI-2025-516138
+2. Vessel: BLUE PIONEER 3 V.30W
+3. Charterers: Orion Logistics Inc.
+4. Cargo: BAUXITE
+5. Quantity: 114,100 MTS
+6. Load Port: Vancouver
+7. Discharge Port: Piraeus
+8. Loading Date: 25-Feb-2025
+9. Discharge Date: 21 March 2025
+10. Owners: Zenith Commodities S.A.
+11. Feright: USD 23 PMT
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

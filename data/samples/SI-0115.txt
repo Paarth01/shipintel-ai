@@ -1,0 +1,14 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          STAR PROVIDENCE
+SHIPMENT REF            FX-2025-359224
+ORIGIN PORT             CHENNAI
+DESTINATION POT         Richards Bay (ZARCB)
+GOODS                   Bauxite
+TOTAL QUANTITY          56 900 MT
+LOADED ON               22-Apr-2025
+DELIVERED ON            21 May 2025
+BUYER                   Baltic Commodities Co. Ltd
+ADVICE DATE             21-Apr-2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

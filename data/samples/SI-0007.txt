@@ -1,0 +1,20 @@
+BILL OF LADING
+
+BL NO                   REF371782
+SHIPPER                 Zenith Maritime Inc.
+CONSIGNEE               Aldgate Energy Co. Ltd
+NOTIFY PARTY            Aldgate Agri Exports Pte Ltd
+OCEAN VESSEL            HARBOUR HARMONY
+PORT OF LOADING         COLOMBO
+PORT OF DISCHARGE       Lagos, Nigeria
+DESCRIPTION OF GOODS    Diesel in bulk, 381,000 metric tons
+SHIPPED ON BOARD        18-Feb-2026
+DATE OF DISCHARGE       2026-03-30
+DATE OF ISSUE           16 February 2026
+PLACE OF ISSUE          Geneva
+FREIGHT                 PREPAID
+CONTAINER NO.           MSKU5364698
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

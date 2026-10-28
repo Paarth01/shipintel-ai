@@ -1,0 +1,10 @@
+# ShipIntel AI - RUNTIME dependencies only (bounded ranges; exact hashed pins are in requirements.lock).
+# Dev/test/security tooling lives in requirements-dev.txt so it is not installed in production.
+pymupdf>=1.24.3,<2          # PDF text extraction
+pydantic>=2.6,<3            # schemas + validation
+fastapi>=0.110,<1           # REST API
+uvicorn[standard]>=0.29,<1  # ASGI server
+python-multipart>=0.0.9     # file uploads for FastAPI
+streamlit>=1.40,<2          # UI
+pandas>=2.1,<4              # CSV export + evaluation
+httpx>=0.27,<1              # UI -> API client

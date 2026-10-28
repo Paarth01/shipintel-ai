@@ -1,0 +1,14 @@
+SHIPPING INSTRUCTION
+
+SHIPPER                 Halcyon Energy Co. Ltd, 301 Dock Lane, Singapore
+VESSEL                  M.V. Pacific Horizon
+LOADING PORT            Singapore (SGSIN)
+DISCHARGE PORT          Genoa, Italy
+COMMODITY               Wheat
+QUANTITY                11,900 Metric Tonnes
+LOADING DATE            31 April 2025
+DISCHARGE DATE          9 July 2025
+DOCUMENT NO             CP-30716-A
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

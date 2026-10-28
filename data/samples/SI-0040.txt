@@ -1,0 +1,14 @@
+CARGO MANIFEST
+
+Manifest No: BL2025/8436
+Vessel Name: PACIFIC HARMONY
+Origin: Chennai (INMAA)
+Destination: Chennai (INMAA)
+Quantity: 15 000 MT
+Date Loadnd: 12 June 2025
+Date Discharged: 30/06/2025
+Voyage No: 8E
+IMO No: 9843409
+Date of Issre: June 9, 2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

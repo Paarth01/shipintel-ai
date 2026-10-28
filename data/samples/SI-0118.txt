@@ -1,0 +1,13 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          CRIMSON VOYAGER
+SHIPMENT REF            MSK-74328-A
+DESTINATION PORT        Rotterdam, Netherlands
+TOTAL QUANTITY          93,300 cbm
+LOADED ON               18 May 2025
+DELIVERED ON            4 May 2025
+CONSIGNEE               Aldgate Marine Services Pvt Ltd
+BUYER                   Aldgate Marine Services Inc.
+ADVICE DATE             14-May-2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

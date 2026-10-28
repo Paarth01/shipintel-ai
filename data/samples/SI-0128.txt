@@ -1,0 +1,13 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          M.V. Nordic Aurora
+SHIPMENT REF            FX-2026-032107
+ORIGIN PORT             Ust-Luga, Russia
+DESTINATION PORT        Fjuairah
+GOODS                   CRUDE OIL
+TOTAL QUANTITY          1,365,600 BBLS
+LOADED ON               2026-03-14
+DELIVEAED ON            28th February 2026
+ADVICE DATE             11.03.2026
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

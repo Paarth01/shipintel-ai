@@ -1,0 +1,15 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          M/V NORDIC EXPLORER
+SHIPMENT REF            MSK-30116-B
+ORIGIN PORT             Piraeus
+DESTINATION PORT        Le Havre, France
+GOODS                   THERMAL COAL
+TOTAL QUANTITY          23,700 tonnes
+LOADED ON               3 July 2025
+DELIVERED ON            7th August 2025
+CONSIGNEE               Halcyon Marine Services Inc.
+BUYER                   Halcyon Bulk Trading Pvt Ltd
+ADVICE DATE             2025-06-30
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

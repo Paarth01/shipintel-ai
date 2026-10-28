@@ -1,0 +1,7 @@
+VOYAGE SUMMARY
+
+Vessel: PACIFIC HARMONY V.37W | Ref: REF2024/2447 | From: GENOA
+To: HAY POINT | Cargo: DIESEL | Qty: 323,600 BBLS
+Loaded: 03/02/2024 | Discharged: 25-Nov-2024 | Voyage: 37W
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

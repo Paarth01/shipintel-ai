@@ -1,0 +1,18 @@
+BILL OF LADING
+
+Bill of Lading No.: REF2025/4789
+Notify Party: Sunrise Logistics LLC
+Vessel Name: MV Blue Legend
+Loading Port: Dalian
+Port of Discharge: Singapore, Singapore
+Description of Goods: 49 200 MT CEMENT CLINKER
+Shipped on Board: 9 March 2025
+Delivery Date: 17-Mar-2025
+Date of Issue: 7th March 2025
+Place of Issue: Hamburg
+Freight: PREPAID
+Container No.: MSKU4713925
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

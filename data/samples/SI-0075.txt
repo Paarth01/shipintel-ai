@@ -1,0 +1,12 @@
+SHIPPING INSTRUCTION
+
+VESSEL                  M/V NORDIC SPIRIT
+LOADING PORT            Le Havre, France
+DISCHARGE PORT          DURBAN
+COMMODITY               Diesel
+QUANTITY                187 400 barrels
+LOADING DATE            January 26, 2025
+DOCUMENT NO             BL354854
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

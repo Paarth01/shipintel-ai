@@ -1,0 +1,674 @@
+{
+  "split": "test",
+  "environment": {
+    "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+    "cpu_count": 1,
+    "python": "3.12.3"
+  },
+  "results": {
+    "rules": {
+      "n_documents": 54,
+      "n_failures": 0,
+      "failures": [],
+      "micro": {
+        "precision": 0.9975728155339806,
+        "recall": 0.9670588235294117,
+        "f1": 0.982078853046595,
+        "tp": 411,
+        "fp": 1,
+        "fn": 14,
+        "tn": 115
+      },
+      "macro_f1": 0.9827425144338117,
+      "field_cell_accuracy": 0.9722735674676525,
+      "document_exact_match": 0.7592592592592593,
+      "per_field": {
+        "vessel_name": {
+          "precision": 1.0,
+          "recall": 0.8913043478260869,
+          "f1": 0.9425287356321839,
+          "tp": 41,
+          "fp": 0,
+          "fn": 5,
+          "tn": 8,
+          "exact_match_accuracy": 0.9074074074074074
+        },
+        "origin_port": {
+          "precision": 0.9743589743589743,
+          "recall": 0.9047619047619048,
+          "f1": 0.9382716049382716,
+          "tp": 38,
+          "fp": 1,
+          "fn": 4,
+          "tn": 12,
+          "exact_match_accuracy": 0.9259259259259259
+        },
+        "destination_port": {
+          "precision": 1.0,
+          "recall": 0.9361702127659575,
+          "f1": 0.967032967032967,
+          "tp": 44,
+          "fp": 0,
+          "fn": 3,
+          "tn": 7,
+          "exact_match_accuracy": 0.9444444444444444
+        },
+        "cargo_type": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1": 0.9795918367346939,
+          "tp": 48,
+          "fp": 0,
+          "fn": 2,
+          "tn": 4,
+          "exact_match_accuracy": 0.9629629629629629
+        },
+        "cargo_quantity": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 44,
+          "fp": 0,
+          "fn": 0,
+          "tn": 10,
+          "exact_match_accuracy": 1.0
+        },
+        "cargo_unit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 47,
+          "fp": 0,
+          "fn": 0,
+          "tn": 7,
+          "exact_match_accuracy": 1.0
+        },
+        "loading_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 38,
+          "fp": 0,
+          "fn": 0,
+          "tn": 16,
+          "exact_match_accuracy": 1.0
+        },
+        "discharge_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 41,
+          "fp": 0,
+          "fn": 0,
+          "tn": 13,
+          "exact_match_accuracy": 1.0
+        },
+        "document_reference": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 48,
+          "fp": 0,
+          "fn": 0,
+          "tn": 6,
+          "exact_match_accuracy": 1.0
+        },
+        "counterparty": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 22,
+          "fp": 0,
+          "fn": 0,
+          "tn": 32,
+          "exact_match_accuracy": 1.0
+        }
+      },
+      "missing_field_handling_rate": 1.0,
+      "absent_cells": 115,
+      "false_values_on_absent_cells": 0,
+      "validation_detection": {
+        "AMBIGUOUS_DATE": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "DISCHARGE_BEFORE_LOADING": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "INVALID_DATE": {
+          "detected": 3,
+          "expected": 3,
+          "rate": 1.0
+        },
+        "NONPOSITIVE_QUANTITY": {
+          "detected": 3,
+          "expected": 3,
+          "rate": 1.0
+        },
+        "SAME_PORT": {
+          "detected": 2,
+          "expected": 3,
+          "rate": 0.6666666666666666
+        }
+      },
+      "validation_detection_overall": 0.9523809523809523,
+      "validation_false_alarm_rate_on_clean_docs": 0.0,
+      "non_shipping_all_null_rate": 1.0,
+      "review_flagging": {
+        "wrong_nonnull_predictions": 1,
+        "wrong_and_flagged": 0,
+        "share_of_wrong_flagged": 0.0,
+        "correct_predictions": 411,
+        "correct_but_flagged": 16,
+        "share_of_correct_flagged": 0.038929440389294405
+      },
+      "by_template": {
+        "T1_charter_party_summary": {
+          "precision": 1.0,
+          "recall": 0.993103448275862,
+          "f1": 0.9965397923875432,
+          "n_cells": 180
+        },
+        "T2_consignment_advice": {
+          "precision": 0.9925925925925926,
+          "recall": 0.950354609929078,
+          "f1": 0.9710144927536232,
+          "n_cells": 181
+        },
+        "T3_voyage_email": {
+          "precision": 1.0,
+          "recall": 0.9568345323741008,
+          "f1": 0.9779411764705883,
+          "n_cells": 180
+        }
+      },
+      "by_file_type": {
+        "pdf": {
+          "precision": 1.0,
+          "recall": 0.9857142857142858,
+          "f1": 0.9928057553956835,
+          "n_cells": 180
+        },
+        "txt": {
+          "precision": 0.9963503649635036,
+          "recall": 0.9578947368421052,
+          "f1": 0.9767441860465116,
+          "n_cells": 361
+        }
+      },
+      "timing_ms": {
+        "median": 1.045,
+        "mean": 1.9501851851851852,
+        "max": 5.51,
+        "n": 54
+      },
+      "errors": [
+        {
+          "document_id": "SI-0097",
+          "template": "T1_charter_party_summary",
+          "file": "SI-0097.txt",
+          "field": "cargo_type",
+          "expected": "Crude Palm Oil",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0115",
+          "template": "T2_consignment_advice",
+          "file": "SI-0115.txt",
+          "field": "vessel_name",
+          "expected": "STAR PROVIDENCE",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0118",
+          "template": "T2_consignment_advice",
+          "file": "SI-0118.txt",
+          "field": "vessel_name",
+          "expected": "CRIMSON VOYAGER",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0120",
+          "template": "T2_consignment_advice",
+          "file": "SI-0120.pdf",
+          "field": "vessel_name",
+          "expected": "IVORY EXPLORER",
+          "predicted": null,
+          "status": "missing",
+          "kind": "zero_qty"
+        },
+        {
+          "document_id": "SI-0123",
+          "template": "T2_consignment_advice",
+          "file": "SI-0123.txt",
+          "field": "vessel_name",
+          "expected": "AMBER HARMONY",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0123",
+          "template": "T2_consignment_advice",
+          "file": "SI-0123.txt",
+          "field": "cargo_type",
+          "expected": "Iron Ore",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0126",
+          "template": "T2_consignment_advice",
+          "file": "SI-0126.txt",
+          "field": "vessel_name",
+          "expected": "NORTHERN FORTUNE",
+          "predicted": null,
+          "status": "missing",
+          "kind": "ambiguous_date"
+        },
+        {
+          "document_id": "SI-0127",
+          "template": "T2_consignment_advice",
+          "file": "SI-0127.txt",
+          "field": "origin_port",
+          "expected": "Durban",
+          "predicted": "Druban",
+          "status": "normalized",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0139",
+          "template": "T3_voyage_email",
+          "file": "SI-0139.pdf",
+          "field": "origin_port",
+          "expected": "Klaipeda",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0140",
+          "template": "T3_voyage_email",
+          "file": "SI-0140.txt",
+          "field": "destination_port",
+          "expected": "Colombo",
+          "predicted": null,
+          "status": "missing",
+          "kind": "same_port"
+        },
+        {
+          "document_id": "SI-0141",
+          "template": "T3_voyage_email",
+          "file": "SI-0141.txt",
+          "field": "origin_port",
+          "expected": "Piraeus",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0142",
+          "template": "T3_voyage_email",
+          "file": "SI-0142.txt",
+          "field": "destination_port",
+          "expected": "Vizhinjam",
+          "predicted": null,
+          "status": "missing",
+          "kind": "invalid_date"
+        },
+        {
+          "document_id": "SI-0146",
+          "template": "T3_voyage_email",
+          "file": "SI-0146.txt",
+          "field": "destination_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0147",
+          "template": "T3_voyage_email",
+          "file": "SI-0147.txt",
+          "field": "origin_port",
+          "expected": "Vizhinjam",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        }
+      ]
+    },
+    "rules+spacy": {
+      "n_documents": 54,
+      "n_failures": 0,
+      "failures": [],
+      "micro": {
+        "precision": 0.9951807228915662,
+        "recall": 0.971764705882353,
+        "f1": 0.9833333333333334,
+        "tp": 413,
+        "fp": 2,
+        "fn": 12,
+        "tn": 115
+      },
+      "macro_f1": 0.9838197152487518,
+      "field_cell_accuracy": 0.974169741697417,
+      "document_exact_match": 0.7962962962962963,
+      "per_field": {
+        "vessel_name": {
+          "precision": 1.0,
+          "recall": 0.8913043478260869,
+          "f1": 0.9425287356321839,
+          "tp": 41,
+          "fp": 0,
+          "fn": 5,
+          "tn": 8,
+          "exact_match_accuracy": 0.9074074074074074
+        },
+        "origin_port": {
+          "precision": 0.95,
+          "recall": 0.9047619047619048,
+          "f1": 0.9268292682926829,
+          "tp": 38,
+          "fp": 2,
+          "fn": 4,
+          "tn": 12,
+          "exact_match_accuracy": 0.9259259259259259
+        },
+        "destination_port": {
+          "precision": 1.0,
+          "recall": 0.9787234042553191,
+          "f1": 0.989247311827957,
+          "tp": 46,
+          "fp": 0,
+          "fn": 1,
+          "tn": 7,
+          "exact_match_accuracy": 0.9814814814814815
+        },
+        "cargo_type": {
+          "precision": 1.0,
+          "recall": 0.96,
+          "f1": 0.9795918367346939,
+          "tp": 48,
+          "fp": 0,
+          "fn": 2,
+          "tn": 4,
+          "exact_match_accuracy": 0.9629629629629629
+        },
+        "cargo_quantity": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 44,
+          "fp": 0,
+          "fn": 0,
+          "tn": 10,
+          "exact_match_accuracy": 1.0
+        },
+        "cargo_unit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 47,
+          "fp": 0,
+          "fn": 0,
+          "tn": 7,
+          "exact_match_accuracy": 1.0
+        },
+        "loading_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 38,
+          "fp": 0,
+          "fn": 0,
+          "tn": 16,
+          "exact_match_accuracy": 1.0
+        },
+        "discharge_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 41,
+          "fp": 0,
+          "fn": 0,
+          "tn": 13,
+          "exact_match_accuracy": 1.0
+        },
+        "document_reference": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 48,
+          "fp": 0,
+          "fn": 0,
+          "tn": 6,
+          "exact_match_accuracy": 1.0
+        },
+        "counterparty": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 22,
+          "fp": 0,
+          "fn": 0,
+          "tn": 32,
+          "exact_match_accuracy": 1.0
+        }
+      },
+      "missing_field_handling_rate": 1.0,
+      "absent_cells": 115,
+      "false_values_on_absent_cells": 0,
+      "validation_detection": {
+        "AMBIGUOUS_DATE": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "DISCHARGE_BEFORE_LOADING": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "INVALID_DATE": {
+          "detected": 3,
+          "expected": 3,
+          "rate": 1.0
+        },
+        "NONPOSITIVE_QUANTITY": {
+          "detected": 3,
+          "expected": 3,
+          "rate": 1.0
+        },
+        "SAME_PORT": {
+          "detected": 3,
+          "expected": 3,
+          "rate": 1.0
+        }
+      },
+      "validation_detection_overall": 1.0,
+      "validation_false_alarm_rate_on_clean_docs": 0.0,
+      "non_shipping_all_null_rate": 1.0,
+      "review_flagging": {
+        "wrong_nonnull_predictions": 2,
+        "wrong_and_flagged": 1,
+        "share_of_wrong_flagged": 0.5,
+        "correct_predictions": 413,
+        "correct_but_flagged": 19,
+        "share_of_correct_flagged": 0.04600484261501211
+      },
+      "by_template": {
+        "T1_charter_party_summary": {
+          "precision": 1.0,
+          "recall": 0.993103448275862,
+          "f1": 0.9965397923875432,
+          "n_cells": 180
+        },
+        "T2_consignment_advice": {
+          "precision": 0.9925925925925926,
+          "recall": 0.950354609929078,
+          "f1": 0.9710144927536232,
+          "n_cells": 181
+        },
+        "T3_voyage_email": {
+          "precision": 0.9926470588235294,
+          "recall": 0.9712230215827338,
+          "f1": 0.9818181818181818,
+          "n_cells": 181
+        }
+      },
+      "by_file_type": {
+        "pdf": {
+          "precision": 1.0,
+          "recall": 0.9857142857142858,
+          "f1": 0.9928057553956835,
+          "n_cells": 180
+        },
+        "txt": {
+          "precision": 0.9927797833935018,
+          "recall": 0.9649122807017544,
+          "f1": 0.9786476868327402,
+          "n_cells": 362
+        }
+      },
+      "timing_ms": {
+        "median": 12.515,
+        "mean": 14.331111111111111,
+        "max": 45.54,
+        "n": 54
+      },
+      "errors": [
+        {
+          "document_id": "SI-0097",
+          "template": "T1_charter_party_summary",
+          "file": "SI-0097.txt",
+          "field": "cargo_type",
+          "expected": "Crude Palm Oil",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0115",
+          "template": "T2_consignment_advice",
+          "file": "SI-0115.txt",
+          "field": "vessel_name",
+          "expected": "STAR PROVIDENCE",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0118",
+          "template": "T2_consignment_advice",
+          "file": "SI-0118.txt",
+          "field": "vessel_name",
+          "expected": "CRIMSON VOYAGER",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0120",
+          "template": "T2_consignment_advice",
+          "file": "SI-0120.pdf",
+          "field": "vessel_name",
+          "expected": "IVORY EXPLORER",
+          "predicted": null,
+          "status": "missing",
+          "kind": "zero_qty"
+        },
+        {
+          "document_id": "SI-0123",
+          "template": "T2_consignment_advice",
+          "file": "SI-0123.txt",
+          "field": "vessel_name",
+          "expected": "AMBER HARMONY",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0123",
+          "template": "T2_consignment_advice",
+          "file": "SI-0123.txt",
+          "field": "cargo_type",
+          "expected": "Iron Ore",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0126",
+          "template": "T2_consignment_advice",
+          "file": "SI-0126.txt",
+          "field": "vessel_name",
+          "expected": "NORTHERN FORTUNE",
+          "predicted": null,
+          "status": "missing",
+          "kind": "ambiguous_date"
+        },
+        {
+          "document_id": "SI-0127",
+          "template": "T2_consignment_advice",
+          "file": "SI-0127.txt",
+          "field": "origin_port",
+          "expected": "Durban",
+          "predicted": "Druban",
+          "status": "normalized",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0139",
+          "template": "T3_voyage_email",
+          "file": "SI-0139.pdf",
+          "field": "origin_port",
+          "expected": "Klaipeda",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0141",
+          "template": "T3_voyage_email",
+          "file": "SI-0141.txt",
+          "field": "origin_port",
+          "expected": "Piraeus",
+          "predicted": "Urea",
+          "status": "needs_review",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0142",
+          "template": "T3_voyage_email",
+          "file": "SI-0142.txt",
+          "field": "destination_port",
+          "expected": "Vizhinjam",
+          "predicted": null,
+          "status": "missing",
+          "kind": "invalid_date"
+        },
+        {
+          "document_id": "SI-0147",
+          "template": "T3_voyage_email",
+          "file": "SI-0147.txt",
+          "field": "origin_port",
+          "expected": "Vizhinjam",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        }
+      ]
+    }
+  }
+}

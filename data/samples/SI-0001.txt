@@ -1,0 +1,18 @@
+BILL OF LADING
+
+BL No: MAN2024/534
+Notify Party: Vanguard Energy LLC
+Vessel: IVORY LEGEND
+Loading Port: Ust-Luga
+Port of Discharge: Colombo
+Description of Goods: thermal coal
+Shipped on Board: 2024-09-13
+Date of Discharge: 26.09.2024
+Date of Issue: September 10, 2024
+Place of Issue: Athens
+Freight: PREPAID
+Container No.: MSKU8755439
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

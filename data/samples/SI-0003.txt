@@ -1,0 +1,19 @@
+BILL OF LADING
+
+B/L NO.                 CP2026/8579
+SHIPPER                 Meridian Commodities Ltd
+CONSIGNEE               Lumen Commodities Ltd
+NOTIFY PARTY            Granite Shipping Inc.
+OCEAN VESSEL            M/V ATLANTIC SPIRIT 6
+PORT OF LOADING         Jeddah
+PORT OF DISCHARGE       KAOHSIUNG
+DESCRIPTION OF GOODS    1,879,200 bbl Crude Oil
+SHIPPED ON BOARD        May 8, 2026
+DATE OF ISSUE           6 May 2026
+PLACE OF ISSUE          Singapore
+FREIGHT                 PREPAID
+CONTAINER NO.           MSKU4965789
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

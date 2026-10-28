@@ -1,0 +1,14 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          MV Ocean Meridian
+SHIPMENT REF            MSK-2025-267640
+ORIGIN PORT             Druban, South Africa
+DESTINATION PORT        Chennai, India
+GOODS                   steel coils
+TOTAL QUANTITY          16 900 MTS
+LOADED ON               June 6, 2025
+DELIVERED ON            June 15, 2025
+CONSIGNEE               Granite Shipping S.A.
+ADVICE DATE             01-Jun-2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

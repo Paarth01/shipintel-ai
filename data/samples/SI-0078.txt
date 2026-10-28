@@ -1,0 +1,14 @@
+SHIPPING INSTRUCTION
+
+SHIPER                  Northwind Commodities Co. Ltd
+VESSEL                  M/V GOLDEN ENDEAVOUR
+LOADING PORT            Kaohsiung
+DISCHARGE PORT          Dunkirk
+COMMODITY               DIESEL
+QUANTITY                294 600 bbl
+LOADING DATE            21/01/2026
+DISCHARGE DATE          2026-01-03
+DOCUMENT NO             MAN576769
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

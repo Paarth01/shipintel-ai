@@ -1,0 +1,13 @@
+SHIPPING INSTRUCTION
+
+SHIPPER                 Cobalt Agri Exports GmbH
+VESSEL                  STAR PIONEER V.45W
+LOADING PORT            Santos
+COMMODITY               Steel Coils
+QUANTITY                10.800,5 MT
+LOADING DATE            21.08.2024
+DISCHARGE DATE          28 September 2024
+DOCUMENT NO             SI-51785-H
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

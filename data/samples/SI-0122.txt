@@ -1,0 +1,13 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          M.V. Amber Fortune
+SHIPMENT REF            CP643719
+ORIGIN PORT             Kandla, India
+DESTINATION PORT        Kandla
+GOODS                   NAPHTHA
+TOTAL QUANTITY          19.700,5 MTS
+LOADED ON               01-Jul-2025
+DELIVERED ON            27.07.2025
+ADVICE DATE             27/06/2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

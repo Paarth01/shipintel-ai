@@ -1,0 +1,15 @@
+CARGO MANIFEST
+
+MANIFEST NO             FX2024/9792
+VESSEL NAME             BLUE GUARDIAN
+ORIGIN                  Visakhapatnam, India
+DESTINATION             TIANJIN
+COMMODITY               Limestone
+QUANTITY                66 800 MT
+DATE DISCHARGED         14/12/2024
+SHIPPER                 Vanguard Logistics Ltd
+VOYAGE NO               1W
+IMO NO                  9845619
+DATE OF ISSUE           2024-11-21
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

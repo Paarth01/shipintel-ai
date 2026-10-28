@@ -1,0 +1,10 @@
+CONSIGNMENT ADVICE
+
+SHIPMENT REF            MAN-2025-645304
+ORIGIN PORT             MUNDRA
+GOODS                   Crude Palm Oil
+LOADED ON               08/07/2025
+DELIVERED ON            14/02/2025
+ADVICE DATE             17 January 2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

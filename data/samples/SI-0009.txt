@@ -1,0 +1,19 @@
+BILL OF LADING
+
+B/L No.: MSK-73768-D
+Shipper: Tidewater Maritime Inc., 5 Marina Boulevard, Dubai
+Consignee: Northwind Logistics Co. Ltd
+Notify Party: Zenith Shipping B.V.
+Vessel: M/V CORAL HARMONY
+Port of Loading: Lagos
+Port of Discharge: ROTTERDAM
+Description of Goods: 11,800 MTS Copper Concentrate
+Shipped on Board: 20-May-2026
+Date of Issue: 2026-05-17
+Place of Issue: Dubai
+Freight: PREPAID
+Container No.: MSKU2242892
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

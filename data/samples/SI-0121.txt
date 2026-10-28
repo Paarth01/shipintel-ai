@@ -1,0 +1,12 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          M/V CAPE EXPLORER
+SHIPMENT REF            REF-95809-D
+DESTINATION PORT        New Orleans
+GOODS                   CEMENT CLINKER
+TOTAL QUANTITY          42 400 Metric Tonnes
+LOADED ON               2025-07-21
+DELIVERED ON            July 29, 2025
+ADVICE DATE             2025-07-20
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

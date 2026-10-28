@@ -1,0 +1,8 @@
+VOYAGE SUMMARY
+
+Vessel: M.V. Eastern Navigator | Ref: SI2025/7725
+From: Gdansk, Poland | To: Dampier | Cargo: Liquefied Natural Gas
+Qty: 167600 cubic metres | Discharged: 6th October 2025 | Charterer: Vanguard Energy LLC
+Voyage: 19W
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

@@ -1,0 +1,15 @@
+OFFICE SUPPLIES INVOICE
+
+Invoice No: INV-20931
+
+Item: A4 paper, 40 reams
+
+Item: stapler (box of 10)
+
+Total due: USD 212.40
+
+Payment due within 30 days.
+
+Thank you for your business.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

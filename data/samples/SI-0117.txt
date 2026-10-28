@@ -1,0 +1,12 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          M/V PACIFIC NAVIGATOR
+SHIPMENT REF            BL2026/5232
+DESTINATION PORT        Vizhinjam
+GOODS                   Containerised General Cargo
+TOTAL QUANTITY          8,500 TEU
+LOADED ON               25.02.2026
+DELIVERED ON            2nd April 2026
+ADVICE DATE             24-Feb-2026
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

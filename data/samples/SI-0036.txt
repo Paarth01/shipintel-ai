@@ -1,0 +1,16 @@
+CARGO MANIFEST
+
+MANIFEST NO             MSK-2024-819665
+VESSEL NAME             M/V OCEAN HORIZON
+ORIGIN                  Fujairah (AEFJR)
+DESTINATION             HAMBURG
+COMMODITY               Crude Oil
+QUANTITY                1.130.800,5 barrels
+DATE LOADED             2nd July 2024
+DATE DISCHARGED         20-Jun-2024
+SHIPPER                 Saffron Resources GmbH
+VOYAGE NO               23E
+IMO NO                  9813308
+DATE OF ISSUE           29th June 2024
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

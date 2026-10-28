@@ -1,0 +1,18 @@
+BILL OF LADING
+
+Bill of aading No.: MAN899787
+Notify Party: Orion Agri Exports LLC
+Vessel Name: ATLANTIC PIONEER V.5E
+Loading Port: TIANJIN
+Port of Discharge: Colombo, Sri Lanka
+Description of Goods: 1 618 700 barrels of CRUDE OIL
+Shipped on Board: 30 February 2025
+Delivery Date: 24 September 2025
+Date of Issue: 24-Aug-2025
+Place of Issue: Dubai
+Freight: PREPAID
+Container No.: MSKU4044882
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

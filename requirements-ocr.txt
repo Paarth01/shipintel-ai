@@ -1,0 +1,5 @@
+# Optional OCR extension. Also needs the Tesseract binary (see README "Optional OCR").
+# Hashed pins (runtime + OCR): requirements-ocr.lock
+-r requirements.txt
+pytesseract>=0.3.10,<0.4
+pillow>=10

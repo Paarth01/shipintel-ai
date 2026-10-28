@@ -1,0 +1,8 @@
+VOYAGE SUMMARY
+
+Vessel: M/V IVORY GUARDIAN | Ref: SI2025/360 | From: Port Klang, Malaysia
+To: Kanla (INIXY) | Cargo: Naphtha
+Qty: 26,300 Metric Tonnes | Loaded: 03/06/2025
+Discharged: January 1, 2026 | Voyage: 3W
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

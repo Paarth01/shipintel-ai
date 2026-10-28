@@ -1,0 +1,14 @@
+SHIPPING INSTRUCTION
+
+SHIPPER                 Orion Maritime Ltd.
+VESSEL                  M.V. Ocean Explorer
+LOADING PORT            MUNDRA
+DISCHARGE PORT          Mundra
+COMMODITY               COPPER CONCENTRATE
+QUANTITY                11,400.5 Metric Tonnes
+LOADING DATE            04.12.2025
+DISCHARGE DATE          5 January 2026
+DOCUMENT NO             MSK-2025-643818
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

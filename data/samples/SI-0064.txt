@@ -1,0 +1,9 @@
+WEATHER BULLETIN
+
+Forecast: light winds and scattered showers across the northern coast.
+
+Visibility: moderate to good. Sea state: slight.
+
+Outlook: improving conditions by the weekend.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

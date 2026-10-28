@@ -1,0 +1,11 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          MV Cape Navigator
+SHIPMENT REF            BL-2025-443166
+ORIGIN PORT             Visakhapatnam, India
+GOODS                   DIESEL
+LOADED ON               31/06/2025
+CONSIGNEE               Aldgate Energy Co. Ltd
+ADVICE DATE             17th June 2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

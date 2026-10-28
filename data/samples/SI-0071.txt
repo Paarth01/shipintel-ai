@@ -1,0 +1,14 @@
+SHIPPING INSTRUCTION
+
+SHIPPER                 Northwind Commodities GmbH, 17 Port Avenue, Geneva
+VESSEL                  M/V NORDIC AURORA
+LOADING PORT            Houston, USA
+DISCHARGE PORT          Visakhapatnam (INVTZ)
+COMMODITY               CEMENT CLINKER
+QUANTITY                27,600.5 MT
+LOADING DATE            14th April 2026
+DISCHARGE DATE          05-May-2026
+DOCUMENT NO             MSK2026/4623
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

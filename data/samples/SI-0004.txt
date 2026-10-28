@@ -1,0 +1,19 @@
+BILL OF LADING
+
+BL NO                   MAN-2025-772476
+CONSIGNEE               Baltic Maritime S.A.
+NOTIFY PARTY            Baltic Maritime LLC
+OCEAN VESSEL            M/V PACIFIC LEGEND
+PORT OF LOADING         Durban
+PORT OF DISCHARGE       Mundra (INMUN)
+DESCRIPTION OF GOODS    180,700 Metric Tonnes of Diesel
+SHIPPED ON BOARD        22-Dec-2025
+DELIVERY DATE           December 3, 2025
+DATE OF ISSUE           17.12.2025
+PLACE OF ISSUE          Athens
+FREIGHT                 PREPAID
+CONTAINER NO.           MSKU2737893
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

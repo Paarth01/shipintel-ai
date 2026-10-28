@@ -1,0 +1,14 @@
+# Hardened Streamlit defaults (see docs/operations.md)
+[server]
+headless = true
+maxUploadSize = 10            # MB; matches SHIPINTEL_MAX_UPLOAD_MB
+enableXsrfProtection = true
+enableCORS = true
+address = "127.0.0.1"         # bind to localhost; put a reverse proxy with TLS + auth in front for sharing
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "none"     # never show Python stack traces to users

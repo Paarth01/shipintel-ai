@@ -1,0 +1,14 @@
+CARGO MANIFEST
+
+Manifest No: SI-2026-082586
+Vessel Name: M/V SILVER HARMONY 3
+Origin: DALIAN
+Destination: Busan, South Korea
+Commodity: Limestone
+Quantity: 29,100 Metric Tonnes
+Date Loaded: 06/10/2026
+Voyage No: 57W
+IMO No: 9393580
+Date of Issue: 13th February 2026
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

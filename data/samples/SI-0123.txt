@@ -1,0 +1,14 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          AMBER HARMONY V.1W
+SHIPMENT REF            REF486643
+ORIGIN PORT             Shanghai
+DESTINATION PORT        Kandla
+GOOS                    IRON ORE
+TOTAL QUANTITY          165,100 MT
+LOADED ON               06.03.2026
+DELIVERED ON            1 April 2026
+BUYER                   Tidewater Maritime S.A.
+ADVICE DATE             5 March 2026
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

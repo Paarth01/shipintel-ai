@@ -1,0 +1,14 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          M.V. Ocean Providence
+SHIPMENT REF            REF871037
+DESTINATION PORT        FUJAIRAH
+GOODS                   IRON ORE
+TOTAL QUANTITY          109,500 MT
+LOADED ON               19 October 2024
+DELIVERED ON            24 November 2024
+CONSIGNEE               Northwind Logistics Pte Ltd
+BUYER                   Orion Commodities Co. Ltd
+ADVICE DATE             16 October 2024
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

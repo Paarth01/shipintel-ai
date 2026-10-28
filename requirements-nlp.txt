@@ -1,0 +1,5 @@
+# Optional spaCy NER adapter (disabled by default). After installing run:
+#   python -m spacy download en_core_web_sm
+# Not locked: the model is downloaded separately; pin and verify it in your own build if you enable this.
+-r requirements.txt
+spacy>=3.7,<4

@@ -1,0 +1,8 @@
+VOYAGE SUMMARY
+
+Vessel: M.V. Northern Legend | Ref: BL792984
+From: SANTOS | Cargo: LIMESTONE | Qty: 44 700 metric tons
+Loaded: 01.09.2024 | Discharged: August 23, 2024 | Charterer: Kestrel Maritime LLC
+Voyage: 55E
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

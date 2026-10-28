@@ -1,0 +1,15 @@
+CARGO MANIFEST
+
+Manifest No: CP2024/7137
+Vessel Name: EASTERN MERIDIAN
+Origin: Kaohsiung
+Destination: Antwerp, Belgium
+Commodity: DIESEL
+Quantity: 323,100 barrels
+Date Loaded: 2024-12-08
+Date Discharged: 12.01.2025
+Voyage No: 39W
+IMO No: 9615519
+Dat eof Issue: 5th December 2024
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

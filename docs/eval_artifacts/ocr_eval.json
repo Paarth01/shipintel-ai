@@ -1,0 +1,70 @@
+{
+  "environment": {
+    "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+    "cpu_count": 1,
+    "python": "3.12.3",
+    "tesseract": "tesseract 5.3.4"
+  },
+  "results": {
+    "baseline_text_no_ocr": {
+      "precision": 0.9955947136563876,
+      "recall": 0.9495798319327731,
+      "f1": 0.9720430107526882,
+      "tp": 226,
+      "fp": 1,
+      "fn": 12,
+      "tn": 52,
+      "doc_exact_match": 0.6206896551724138
+    },
+    "levels": {
+      "clean": {
+        "documents": 29,
+        "failures": [],
+        "wer_mean": 0.11455304340396741,
+        "wer_median": 0.018867924528301886,
+        "char_similarity_mean": 0.9555638421229159,
+        "seconds_per_page_median": 0.9805328769999733,
+        "precision": 0.9831460674157303,
+        "recall": 0.7352941176470589,
+        "f1": 0.8413461538461539,
+        "tp": 175,
+        "fp": 3,
+        "fn": 63,
+        "tn": 52,
+        "doc_exact_match": 0.41379310344827586
+      },
+      "mild": {
+        "documents": 29,
+        "failures": [],
+        "wer_mean": 0.10424139752708365,
+        "wer_median": 0.01818181818181818,
+        "char_similarity_mean": 0.9606385541188432,
+        "seconds_per_page_median": 1.1127533180000455,
+        "precision": 1.0,
+        "recall": 0.726890756302521,
+        "f1": 0.8418491484184915,
+        "tp": 173,
+        "fp": 0,
+        "fn": 65,
+        "tn": 52,
+        "doc_exact_match": 0.41379310344827586
+      },
+      "heavy": {
+        "documents": 29,
+        "failures": [],
+        "wer_mean": 0.2821843050575058,
+        "wer_median": 0.1527777777777778,
+        "char_similarity_mean": 0.8786525787945446,
+        "seconds_per_page_median": 1.035113133999971,
+        "precision": 0.9496402877697842,
+        "recall": 0.5546218487394958,
+        "f1": 0.7002652519893898,
+        "tp": 132,
+        "fp": 7,
+        "fn": 106,
+        "tn": 52,
+        "doc_exact_match": 0.20689655172413793
+      }
+    }
+  }
+}

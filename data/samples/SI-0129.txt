@@ -1,0 +1,14 @@
+CONSIGNMENT ADVICE
+
+CARRIER VESSEL          MV Coral Meridian
+SHIPMENT REF            REF2025/9469
+ORIGIN PORT             Yokohama (JPYOK)
+DESTINATION PORT        Fujairah (AEFJR)
+GOODS                   LIMESTONE
+TOTAL QUANTITY          37 400 metric tons
+LOADED ON               01.10.2025
+DELIVERED ON            15.10.2025
+CONSIGNEE               Lumen Maritime GmbH
+ADVICE DATE             27/09/2025
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

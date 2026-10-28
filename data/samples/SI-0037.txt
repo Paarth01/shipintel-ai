@@ -1,0 +1,13 @@
+CARGO MANIFEST
+
+MANIFEST NO             CP-2024-997413
+VESSEL NAME             MV Ivory Providence
+ORIGIN                  NEW ORLEANS
+COMMODITY               BAUXITE
+QUANTITY                70.000,5 MT
+DATE LOADED             04-Sep-2024
+VOYAGE NO               37E
+IMO NO                  9826596
+DATE OF ISSUE           30 August 2024
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

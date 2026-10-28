@@ -1,0 +1,8 @@
+VOYAGE SUMMARY
+
+Vessel: M.V. Tidal Endeavour 4 | Ref: MAN2026/7323
+From: PORT HEDLAND | To: Visakhapatnam, India | Cargo: Cement Clinker
+Qty: 49,100 MTS | Loaded: 11 May 2026
+Discharged: 2026-04-29 | Charterer: Northwind Shipping LLC | Voyage: 21E
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

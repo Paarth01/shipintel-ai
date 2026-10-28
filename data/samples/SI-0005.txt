@@ -1,0 +1,19 @@
+BILL OF LADING
+
+B/L NO.                 SI-2024-275680
+SHIPPER                 Northwind Marine Services Co. Ltd, Plot 44, Industrial Estate, Singapore
+NOTIFY PARTY            Juniper Maritime GmbH
+OCEA NVESSEL            MV Ocean Trader
+LOADING PORT            KLAIPEDA
+PORT OF DISCHARGE       Jebel Ali, UAE
+DESCRIPTION OF GOODS    approx. 60,100 MT Bauxite +/- 10%
+SHIPPED ON BOARD        23/07/2024
+DELIVERY DATE           05.08.2024
+DATE OF ISSUE           22.07.2024
+PLACE OF ISSUE          Singapore
+FREIGHT                 PREPAID
+CONTAINER NO.           MSKU9546409
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

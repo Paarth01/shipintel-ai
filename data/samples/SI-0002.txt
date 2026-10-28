@@ -1,0 +1,19 @@
+BILL OF LADING
+
+Bill of Lading No.: CP-33325-E
+Shipper: Baltic Bulk Trading Ltd.
+Consignee: Halcyon Shipping S.A.
+Notify Party: Meridian Marine Services LLC
+Ocean Vessel: NORTHERN SPIRIT V.30W
+Port of Loading: Kandla
+Port of Discharge: Los Angeles
+Description of Goods: 23,300 tonnes LIMESTONE
+Shipped on Board: 03/06/2026
+Date of Issue: 28.12.2025
+Place of Issue: Athens
+Freight: PREPAID
+Container No.: MSKU9153566
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

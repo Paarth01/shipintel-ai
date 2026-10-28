@@ -1,0 +1,19 @@
+BILL OF LADING
+
+B/L NO.                 BL-2026-652517
+SHIPPER                 Sunrise Shipping Inc.
+NOTIFY PARTY            Granite Shipping Co. Ltd
+VESSEL NAME             BLUE HARMONY
+LOADING PORT            Hamburg
+PORT OF DISCHARGE       HAMBRUG
+DESCRIPTION OF GOODS    approx. 170000 cubic metres LNG +/- 10%
+SHIPPED ON BOARD        28.03.2026
+DATE OF DISCHARGE       9 April 2026
+DATE OF ISSUE           24/03/2026
+PLACE OF ISSUE          London
+FREIGHT                 PREPAID
+CONTAINER NO.           MSKU2453962
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

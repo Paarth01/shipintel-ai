@@ -1,0 +1,14 @@
+SHIPPING INSTRUCTION
+
+SHIPPER                 Tidewater Marine Services Inc., 88 Quay Street, London
+VESSEL                  M.V. Crimson Spirit
+LOADING PORT            Lagos, Nigeria
+DISCHARGE PORT          Chennai
+COMMODITY               Naphtha
+QUANTITY                26200 MTS
+LOADING DATE            June 5, 2025
+DISCHARGE DATE          May 31, 2025
+DOCUMENT NO             FX704875
+SPECIAL INSTRUCTIONS    Handle with care; keep dry
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

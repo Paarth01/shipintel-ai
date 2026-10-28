@@ -1,0 +1,15 @@
+CHARTER PARTY SUMMARY
+
+1. CP Ref: BL-69846-E
+2. Vessel: ATLANTIC VOYAGER
+3. Charterres: Aldgate Energy Pvt Ltd
+4. Cargo: Crude Oil
+5. Quantity: 0 barrels
+6. Load Port: VISAKHAPATAM
+7. Discharge Port: Houston
+8. Loading Date: 12-Jul-2025
+9. Discharge Date: 28.07.2025
+10. Owners: Northwind Commodities Co. Ltd
+11. Freight: USD 39 PMT
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

@@ -1,0 +1,580 @@
+{
+  "split": "dev",
+  "environment": {
+    "platform": "Linux-6.18.44-fc-v114-x86_64-with-glibc2.39",
+    "cpu_count": 1,
+    "python": "3.12.3"
+  },
+  "results": {
+    "rules": {
+      "n_documents": 96,
+      "n_failures": 0,
+      "failures": [],
+      "micro": {
+        "precision": 1.0,
+        "recall": 0.9914320685434517,
+        "f1": 0.9956976029502151,
+        "tp": 810,
+        "fp": 0,
+        "fn": 7,
+        "tn": 143
+      },
+      "macro_f1": 0.99558436127346,
+      "field_cell_accuracy": 0.9927083333333333,
+      "document_exact_match": 0.9375,
+      "per_field": {
+        "vessel_name": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 92,
+          "fp": 0,
+          "fn": 0,
+          "tn": 4,
+          "exact_match_accuracy": 1.0
+        },
+        "origin_port": {
+          "precision": 1.0,
+          "recall": 0.9651162790697675,
+          "f1": 0.9822485207100593,
+          "tp": 83,
+          "fp": 0,
+          "fn": 3,
+          "tn": 10,
+          "exact_match_accuracy": 0.96875
+        },
+        "destination_port": {
+          "precision": 1.0,
+          "recall": 0.963855421686747,
+          "f1": 0.9815950920245399,
+          "tp": 80,
+          "fp": 0,
+          "fn": 3,
+          "tn": 13,
+          "exact_match_accuracy": 0.96875
+        },
+        "cargo_type": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 89,
+          "fp": 0,
+          "fn": 0,
+          "tn": 7,
+          "exact_match_accuracy": 1.0
+        },
+        "cargo_quantity": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 84,
+          "fp": 0,
+          "fn": 0,
+          "tn": 12,
+          "exact_match_accuracy": 1.0
+        },
+        "cargo_unit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 90,
+          "fp": 0,
+          "fn": 0,
+          "tn": 6,
+          "exact_match_accuracy": 1.0
+        },
+        "loading_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 68,
+          "fp": 0,
+          "fn": 0,
+          "tn": 28,
+          "exact_match_accuracy": 1.0
+        },
+        "discharge_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 75,
+          "fp": 0,
+          "fn": 0,
+          "tn": 21,
+          "exact_match_accuracy": 1.0
+        },
+        "document_reference": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 87,
+          "fp": 0,
+          "fn": 0,
+          "tn": 9,
+          "exact_match_accuracy": 1.0
+        },
+        "counterparty": {
+          "precision": 1.0,
+          "recall": 0.9841269841269841,
+          "f1": 0.9919999999999999,
+          "tp": 62,
+          "fp": 0,
+          "fn": 1,
+          "tn": 33,
+          "exact_match_accuracy": 0.9895833333333334
+        }
+      },
+      "missing_field_handling_rate": 1.0,
+      "absent_cells": 143,
+      "false_values_on_absent_cells": 0,
+      "validation_detection": {
+        "AMBIGUOUS_DATE": {
+          "detected": 12,
+          "expected": 12,
+          "rate": 1.0
+        },
+        "DISCHARGE_BEFORE_LOADING": {
+          "detected": 12,
+          "expected": 12,
+          "rate": 1.0
+        },
+        "INVALID_DATE": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "NONPOSITIVE_QUANTITY": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "SAME_PORT": {
+          "detected": 5,
+          "expected": 6,
+          "rate": 0.8333333333333334
+        }
+      },
+      "validation_detection_overall": 0.9761904761904762,
+      "validation_false_alarm_rate_on_clean_docs": 0.0,
+      "non_shipping_all_null_rate": 1.0,
+      "review_flagging": {
+        "wrong_nonnull_predictions": 0,
+        "wrong_and_flagged": 0,
+        "share_of_wrong_flagged": null,
+        "correct_predictions": 810,
+        "correct_but_flagged": 37,
+        "share_of_correct_flagged": 0.04567901234567901
+      },
+      "by_template": {
+        "D1_bill_of_lading": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "n_cells": 160
+        },
+        "D2_fixture_recap": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "n_cells": 160
+        },
+        "D3_cargo_manifest": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "n_cells": 160
+        },
+        "D4_notice_of_readiness": {
+          "precision": 1.0,
+          "recall": 0.9776119402985075,
+          "f1": 0.9886792452830189,
+          "n_cells": 160
+        },
+        "D5_shipping_instruction": {
+          "precision": 1.0,
+          "recall": 0.9924812030075187,
+          "f1": 0.9962264150943396,
+          "n_cells": 160
+        },
+        "D6_voyage_summary": {
+          "precision": 1.0,
+          "recall": 0.9787234042553191,
+          "f1": 0.989247311827957,
+          "n_cells": 160
+        }
+      },
+      "by_file_type": {
+        "pdf": {
+          "precision": 1.0,
+          "recall": 0.9932432432432432,
+          "f1": 0.9966101694915254,
+          "n_cells": 340
+        },
+        "txt": {
+          "precision": 1.0,
+          "recall": 0.9904030710172744,
+          "f1": 0.9951783992285439,
+          "n_cells": 620
+        }
+      },
+      "timing_ms": {
+        "median": 1.375,
+        "mean": 2.7764583333333333,
+        "max": 8.6,
+        "n": 96
+      },
+      "errors": [
+        {
+          "document_id": "SI-0055",
+          "template": "D4_notice_of_readiness",
+          "file": "SI-0055.txt",
+          "field": "destination_port",
+          "expected": "Kribi",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0058",
+          "template": "D4_notice_of_readiness",
+          "file": "SI-0058.txt",
+          "field": "origin_port",
+          "expected": "Ust-Luga",
+          "predicted": null,
+          "status": "missing",
+          "kind": "invalid_date"
+        },
+        {
+          "document_id": "SI-0062",
+          "template": "D4_notice_of_readiness",
+          "file": "SI-0062.txt",
+          "field": "destination_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0078",
+          "template": "D5_shipping_instruction",
+          "file": "SI-0078.txt",
+          "field": "counterparty",
+          "expected": "Northwind Commodities Co. Ltd",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0083",
+          "template": "D6_voyage_summary",
+          "file": "SI-0083.txt",
+          "field": "origin_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0088",
+          "template": "D6_voyage_summary",
+          "file": "SI-0088.pdf",
+          "field": "origin_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "same_port"
+        },
+        {
+          "document_id": "SI-0088",
+          "template": "D6_voyage_summary",
+          "file": "SI-0088.pdf",
+          "field": "destination_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "same_port"
+        }
+      ]
+    },
+    "rules+spacy": {
+      "n_documents": 96,
+      "n_failures": 0,
+      "failures": [],
+      "micro": {
+        "precision": 1.0,
+        "recall": 0.99265605875153,
+        "f1": 0.9963144963144962,
+        "tp": 811,
+        "fp": 0,
+        "fn": 6,
+        "tn": 143
+      },
+      "macro_f1": 0.9961830386142186,
+      "field_cell_accuracy": 0.99375,
+      "document_exact_match": 0.9479166666666666,
+      "per_field": {
+        "vessel_name": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 92,
+          "fp": 0,
+          "fn": 0,
+          "tn": 4,
+          "exact_match_accuracy": 1.0
+        },
+        "origin_port": {
+          "precision": 1.0,
+          "recall": 0.9767441860465116,
+          "f1": 0.988235294117647,
+          "tp": 84,
+          "fp": 0,
+          "fn": 2,
+          "tn": 10,
+          "exact_match_accuracy": 0.9791666666666666
+        },
+        "destination_port": {
+          "precision": 1.0,
+          "recall": 0.963855421686747,
+          "f1": 0.9815950920245399,
+          "tp": 80,
+          "fp": 0,
+          "fn": 3,
+          "tn": 13,
+          "exact_match_accuracy": 0.96875
+        },
+        "cargo_type": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 89,
+          "fp": 0,
+          "fn": 0,
+          "tn": 7,
+          "exact_match_accuracy": 1.0
+        },
+        "cargo_quantity": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 84,
+          "fp": 0,
+          "fn": 0,
+          "tn": 12,
+          "exact_match_accuracy": 1.0
+        },
+        "cargo_unit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 90,
+          "fp": 0,
+          "fn": 0,
+          "tn": 6,
+          "exact_match_accuracy": 1.0
+        },
+        "loading_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 68,
+          "fp": 0,
+          "fn": 0,
+          "tn": 28,
+          "exact_match_accuracy": 1.0
+        },
+        "discharge_date": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 75,
+          "fp": 0,
+          "fn": 0,
+          "tn": 21,
+          "exact_match_accuracy": 1.0
+        },
+        "document_reference": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "tp": 87,
+          "fp": 0,
+          "fn": 0,
+          "tn": 9,
+          "exact_match_accuracy": 1.0
+        },
+        "counterparty": {
+          "precision": 1.0,
+          "recall": 0.9841269841269841,
+          "f1": 0.9919999999999999,
+          "tp": 62,
+          "fp": 0,
+          "fn": 1,
+          "tn": 33,
+          "exact_match_accuracy": 0.9895833333333334
+        }
+      },
+      "missing_field_handling_rate": 1.0,
+      "absent_cells": 143,
+      "false_values_on_absent_cells": 0,
+      "validation_detection": {
+        "AMBIGUOUS_DATE": {
+          "detected": 12,
+          "expected": 12,
+          "rate": 1.0
+        },
+        "DISCHARGE_BEFORE_LOADING": {
+          "detected": 12,
+          "expected": 12,
+          "rate": 1.0
+        },
+        "INVALID_DATE": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "NONPOSITIVE_QUANTITY": {
+          "detected": 6,
+          "expected": 6,
+          "rate": 1.0
+        },
+        "SAME_PORT": {
+          "detected": 5,
+          "expected": 6,
+          "rate": 0.8333333333333334
+        }
+      },
+      "validation_detection_overall": 0.9761904761904762,
+      "validation_false_alarm_rate_on_clean_docs": 0.0,
+      "non_shipping_all_null_rate": 1.0,
+      "review_flagging": {
+        "wrong_nonnull_predictions": 0,
+        "wrong_and_flagged": 0,
+        "share_of_wrong_flagged": null,
+        "correct_predictions": 811,
+        "correct_but_flagged": 38,
+        "share_of_correct_flagged": 0.0468557336621455
+      },
+      "by_template": {
+        "D1_bill_of_lading": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "n_cells": 160
+        },
+        "D2_fixture_recap": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "n_cells": 160
+        },
+        "D3_cargo_manifest": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0,
+          "n_cells": 160
+        },
+        "D4_notice_of_readiness": {
+          "precision": 1.0,
+          "recall": 0.9850746268656716,
+          "f1": 0.9924812030075187,
+          "n_cells": 160
+        },
+        "D5_shipping_instruction": {
+          "precision": 1.0,
+          "recall": 0.9924812030075187,
+          "f1": 0.9962264150943396,
+          "n_cells": 160
+        },
+        "D6_voyage_summary": {
+          "precision": 1.0,
+          "recall": 0.9787234042553191,
+          "f1": 0.989247311827957,
+          "n_cells": 160
+        }
+      },
+      "by_file_type": {
+        "pdf": {
+          "precision": 1.0,
+          "recall": 0.9932432432432432,
+          "f1": 0.9966101694915254,
+          "n_cells": 340
+        },
+        "txt": {
+          "precision": 1.0,
+          "recall": 0.9923224568138196,
+          "f1": 0.9961464354527938,
+          "n_cells": 620
+        }
+      },
+      "timing_ms": {
+        "median": 14.485,
+        "mean": 15.642916666666666,
+        "max": 50.31,
+        "n": 96
+      },
+      "errors": [
+        {
+          "document_id": "SI-0055",
+          "template": "D4_notice_of_readiness",
+          "file": "SI-0055.txt",
+          "field": "destination_port",
+          "expected": "Kribi",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0062",
+          "template": "D4_notice_of_readiness",
+          "file": "SI-0062.txt",
+          "field": "destination_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0078",
+          "template": "D5_shipping_instruction",
+          "file": "SI-0078.txt",
+          "field": "counterparty",
+          "expected": "Northwind Commodities Co. Ltd",
+          "predicted": null,
+          "status": "missing",
+          "kind": "date_order"
+        },
+        {
+          "document_id": "SI-0083",
+          "template": "D6_voyage_summary",
+          "file": "SI-0083.txt",
+          "field": "origin_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "normal"
+        },
+        {
+          "document_id": "SI-0088",
+          "template": "D6_voyage_summary",
+          "file": "SI-0088.pdf",
+          "field": "origin_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "same_port"
+        },
+        {
+          "document_id": "SI-0088",
+          "template": "D6_voyage_summary",
+          "file": "SI-0088.pdf",
+          "field": "destination_port",
+          "expected": "Gdansk",
+          "predicted": null,
+          "status": "missing",
+          "kind": "same_port"
+        }
+      ]
+    }
+  }
+}

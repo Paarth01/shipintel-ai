@@ -1,0 +1,15 @@
+CARGO MANIFEST
+
+MANIFEST NO             REF-2024-494894
+VESSEL NAME             EASTERN VOYAGER 2 V.6E
+ORIGIN                  Dalian (CNDLC)
+DESTINATION             Port Klang
+COMMODITY               Crude Palm Oil
+QUANTITY                39,500 MTS
+DATE LOADED             October 14, 2024
+DATE DISCHARGED         2024-11-15
+VOYAGE NO               6E
+IMO UO                  9562445
+DATE OF ISSUE           11-Oct-2024
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

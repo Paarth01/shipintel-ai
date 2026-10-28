@@ -1,0 +1,9 @@
+VOYAGE SUMMARY
+
+Vessel: M.V. Ocean Voyager | Ref: BL-45265-A
+From: LOS ANGELES | To: Mombasa, Kenya
+Cargo: Steel Coils | Qty: 14,700 MT | Loaded: 21/03/2026
+Discharged: 17 April 2026 | Charterer: Saffron Resources Pte Ltd
+Voyage: 45E
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]

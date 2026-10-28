@@ -1,0 +1,18 @@
+BILL OF LADING
+
+B/L NO.                 MSK-13978-H
+CONSIGNEE               Northwind Resources LLC
+NOTIFY PARTY            Cobalt Shipping Ltd.
+VESSEL NAME             MV Eastern Aurora
+PORT F LOADING          Le Havre
+DESCRIPTION OF GOODS    Wheat in bulk, 21,700 tonnes
+SHIPPED ON BOARD        3 July 2025
+DATE OF DISCHARGE       June 22, 2025
+DATE OF ISSUE           01.07.2025
+PLACE OF ISSUE          London
+FREIGHT                 PREPAID
+CONTAINER NO.           MSKU2066326
+Weight, measure and quantity declared by shipper. Carrier not responsible for
+loss or damage as per terms overleaf.
+
+[SYNTHETIC SAMPLE - fictional data generated for software testing; not a real document]
