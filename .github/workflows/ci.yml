@@ -65,7 +65,7 @@ jobs:
     needs: [lint, test]
     steps:
       - uses: actions/checkout@v4
-      - uses: hadolint/hadolint-action@v3.1.0
+      - uses: hadolint/hadolint-action@v3.5.0
         with: {dockerfile: Dockerfile, failure-threshold: warning}
       - run: docker build -t shipintel-ai:ci .
       - name: Container starts, refuses to run without API keys, serves /health with them
