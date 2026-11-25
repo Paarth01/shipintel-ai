@@ -20,7 +20,8 @@ RUN python -m venv /opt/venv \
 
 FROM python:${PYTHON_VERSION}-slim-bookworm AS runtime
 ARG WITH_OCR=false
-# hadolint ignore=DL3008  (Debian package versions in the slim base image move with security updates; pinning would break rebuilds)
+# Debian package versions in the slim base image move with security updates; pinning would break rebuilds.
+# hadolint ignore=DL3008
 RUN if [ "$WITH_OCR" = "true" ]; then \
       apt-get update && apt-get install -y --no-install-recommends tesseract-ocr tesseract-ocr-eng \
       && rm -rf /var/lib/apt/lists/*; \
