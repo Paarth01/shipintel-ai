@@ -76,7 +76,7 @@ jobs:
           for i in $(seq 1 30); do curl -fsS localhost:8000/health && break || sleep 1; done
           curl -fsS localhost:8000/ready
           docker exec api id -u | grep -qx 10001
-      - uses: aquasecurity/trivy-action@0.28.0
+      - uses: aquasecurity/trivy-action@v0.36.0
         with:
           image-ref: shipintel-ai:ci
           severity: CRITICAL,HIGH
